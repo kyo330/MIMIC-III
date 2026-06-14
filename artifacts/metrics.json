@@ -1,0 +1,1 @@
+{"logreg_auroc_cv": 0.745, "logreg_auroc_cv_std": 0.276, "xgb_auroc_cv": 0.701, "xgb_auroc_cv_std": 0.211, "cohort_size": 88, "unique_patients": 66, "positive_rate": 0.0795}
